@@ -42,10 +42,13 @@ Before deploying your app to Azure Kubernetes Services, make sure you have the f
 
      The output of your app will be available at:
 
-     For testing the app, you can paste this External IP address: "20.232.233.15"
 
-    Output of the app will be like this:
-   ![App Output](https://shorturl.at/lBN67)
+For testing the app, you can paste this External IP address: "20.232.233.15"
+
+Output of the app will be like this:
+
+![App Output](https://pin.it/7iZCAOE)
+
 
 
 
