@@ -47,8 +47,7 @@ For testing the app, you can paste this External IP address: "20.232.233.15"
 
 Output of the app will be like this:
 
-![App Output](https://pin.it/7iZCAOE)
-
+[App Output](https://pin.it/7iZCAOE)
 
 
 
