@@ -1,4 +1,5 @@
 # Deploy App to Azure Kubernetes Services (AKS)
+## You can find only some part of code here you can see full code and proceesor in document  
 
 ## Prerequisites
 Before deploying your app to Azure Kubernetes Services, make sure you have the following prerequisites in place:
