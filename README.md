@@ -1,4 +1,3 @@
-```markdown
 # Deploy App to Azure Kubernetes Services (AKS)
 
 ## Prerequisites
